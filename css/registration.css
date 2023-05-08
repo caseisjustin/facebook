@@ -1,0 +1,157 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    max-width: 1550px;
+    height: 100vh;
+    background-color: rgb(241, 243, 237);
+}
+.row{
+    display: flex;
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+.middle__side{
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    box-shadow: 2px 5px 20px 8px rgba(42, 64, 80, 0.2);
+    border: 1px solid rgb(214, 213, 213);
+    border-radius: 3px;
+    width: 230px;
+    height: 305px;
+    background-color: rgb(255, 255, 255)
+}
+h1{
+    font-size: 18px;
+    margin-top: 2px;
+    margin-left: 4px;
+}
+.Fast{
+    font-size: 8px;
+    margin-top: -12px;
+    margin-left: 5px;
+    color: rgb(147, 147, 147);
+}
+.xrestic{
+    display: flex;
+}
+img{
+    height: 15px;
+    width: 15px;
+    margin: -47px 0 0 210px;
+}
+input{
+    height: 15px;
+}
+::placeholder{
+    font-size: 8px;
+}
+.Name{
+    border-radius: 2px;
+    margin-left: 5px;
+    width: 101px;
+    background-color: rgb(245, 245, 245);
+    border-width: 0.5px;
+}
+.Lastname{
+    border-radius: 2px;
+    width: 101px;
+    background-color: rgb(243, 243, 243);
+    border-width: 0.5px;
+}
+.Email__tel{
+    border-radius: 2px;
+    width: 211px;
+    margin-left: 5px;
+    font-size: 9px;
+    border-width: 0.5px;
+    margin-top: 3px;
+    background-color: rgb(240, 240, 240);
+}
+.new__password{
+    border-radius: 2px;
+    margin-left: 5px;
+    width: 211px;
+    font-size: 9px;
+    margin-top: 3px;
+    border-width: 0.5px;
+    background-color: rgb(240, 240, 240);
+}
+.middle{
+    font-size: 7px;
+    margin-top: 5px;
+    margin-left: 5px;
+    color: rgb(147, 147, 147);
+}
+.day{
+    margin-left: 4px;
+    margin-right: 0px;
+    width: 68.9px;
+    border-width: 0.5px;
+}
+.month{
+    margin-left: 2px;
+    width: 68.9px;
+    border-width: 0.5px;
+}
+.year{
+    margin-left: 2px;
+    width: 68.9px;
+    border-width: 0.5px;
+}
+.gender{
+    font-size: 7px;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    margin-left: 5px;
+    color: rgb(147, 147, 147);
+}
+.womBord{
+    margin-left: 8px;
+    font-size: 11px;
+    border-style: inset;
+}
+.man__bord{
+    margin-left: 5px;
+    font-size: 11px;
+    border-style: inset;
+}
+.othBord{
+    margin-left: 5px;
+    font-size: 11px;
+    border-style: inset;
+}
+.wom{
+    margin: 0;
+    height: 8px;
+    padding: 0;
+}
+.man{
+    height: 8px;
+    margin: 0;
+    padding: 0;
+}
+.oth{
+    height: 8px;
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-size: 7px;
+}
+button{
+    margin-left: 55px;
+    margin-top: 10px;
+    background-color: green;
+    border-radius: 4px;
+    width: 120px;
+    border-style: none;
+    height: 20px;
+}
+.sylka{
+    color: white;
+    font-size: 10px;
+    text-decoration: none;
+}
